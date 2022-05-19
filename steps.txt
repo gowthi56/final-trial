@@ -7,5 +7,9 @@ Then type cd and add your file
 Then type dir
 Then type git init
 Follow the steps provided in git bash
+If you want any corections for these steps
+Git add .
+Git commit -m
+git push -u origin
 
  
