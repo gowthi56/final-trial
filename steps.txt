@@ -1,0 +1,11 @@
+hey im starting with git hub today
+---------------------------------------------------
+ first step is creating new repository in github website
+ Then pless windows + R key and type cmd
+check git by typing git ---version
+Then type cd and add your file
+Then type dir
+Then type git init
+Follow the steps provided in git bash
+
+ 
